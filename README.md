@@ -29,11 +29,6 @@ This dashboard provides insights into key business metrics such as revenue, prof
 1. **Prerequisites**:
    - [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/)
 
-2. **Steps**:
-   - Clone the repository: `git clone https://github.com/yourusername/madhav-store-dashboard.git`
-   - Open `Madhav_Store_Dashboard.pbix` in Power BI Desktop.
-   - Explore the dashboard and reports.
-
 ---
 
 ## 🤝 Contributing
