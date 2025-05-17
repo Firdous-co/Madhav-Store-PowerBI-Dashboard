@@ -12,7 +12,7 @@ This dashboard provides insights into key business metrics such as revenue, prof
 
 ## 🖼️ Dashboard Preview
 
-![Uploading image.png…]()
+<img width="679" alt="image" src="https://github.com/user-attachments/assets/aea59f82-480b-4b0a-a6f1-6aef0e7b76fe" />
 
 ### Key Features:
 - **Revenue Metrics**: Total amount, profit, quantity, and average order value (AOV).
@@ -33,12 +33,6 @@ This dashboard provides insights into key business metrics such as revenue, prof
    - Clone the repository: `git clone https://github.com/yourusername/madhav-store-dashboard.git`
    - Open `Madhav_Store_Dashboard.pbix` in Power BI Desktop.
    - Explore the dashboard and reports.
-
----
-
-## 📝 License
-
-MIT License – see `LICENSE` for details.
 
 ---
 
