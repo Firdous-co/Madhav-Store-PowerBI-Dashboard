@@ -12,7 +12,7 @@ This dashboard provides insights into key business metrics such as revenue, prof
 
 ## 🖼️ Dashboard Preview
 
-![Madhav Store Dashboard](Madhav Store dashboard.jpg)
+![Uploading image.png…]()
 
 ### Key Features:
 - **Revenue Metrics**: Total amount, profit, quantity, and average order value (AOV).
